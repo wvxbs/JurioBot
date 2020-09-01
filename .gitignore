@@ -339,4 +339,4 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-SeverinoBot/appsettings.json
+\SeverinoBot\SeverinoBot.csproj
