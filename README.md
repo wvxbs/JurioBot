@@ -1,12 +1,14 @@
-# Bot do Severino
-Bot do Discord que embaralha a ordem das palavras de todas as mensagens!
+# Forked from https://github.com/EnzoMilanese/SeverinoBot
+
+# Bot do Jurio
+Bot do Discord que diz "kappa kappa" para toda letra digitada
 ***
 ## Funcionalidades
-- **Embaralhar mensagens**
-O severino lê suas mensagens e responde com as palavras fora de ordem:
-![Severino embaralhando mensagens](https://i.imgur.com/OUbMSfy.png)
-- **Textão de parabéns**
-Escreva "parabens" e tenha uma surpresa!
+- **Dizer kappa kappa **
+O jurio lê suas mensagens e responde com "kappa kappa":
+![Julio dizendo kappa kappa](https://i.imgur.com/OUbMSfy.png)
+- **Easter egg**
+Escreva "free fire" e tenha uma surpresa!
 ***
 ## Como configurar e usar
 1. Crie um bot no [Painel de Desenvolvedores do Discord](https://discord.com/developers/applications) e gere um token de aplicação;
