@@ -25,7 +25,7 @@ namespace SeverinoBot
             StringBuilder Laugh = new StringBuilder();
 
             for(int i = 0; i < GetWordCount(message); i++)
-                Laugh.Append("k");
+                Laugh.Append("kappa kappa");
 
             return Laugh.ToString();
         }
