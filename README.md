@@ -1,4 +1,4 @@
-# Forked from https://github.com/EnzoMilanese/SeverinoBot
+Forked from https://github.com/EnzoMilanese/SeverinoBot
 
 # Bot do Jurio
 Bot do Discord que diz "kappa kappa" para toda letra digitada
@@ -13,7 +13,7 @@ Escreva "free fire" e tenha uma surpresa!
 ## Como configurar e usar
 1. Crie um bot no [Painel de Desenvolvedores do Discord](https://discord.com/developers/applications) e gere um token de aplicação;
 2. Copie o token, cole no campo "discord-bot-key" (dentro das aspas) no arquivo "appsettings.json" e salve;
-3. Execute o arquivo "SeverinoBot.ps1" para rodar o bot localmente.
+3. Execute o arquivo "JurioBot.ps1" para rodar o bot localmente.
 
 - Para definir um canal de texto padrão para o bot:
 	1. Abra o Discord e habilite o Modo Desenvolvedor em Configuração > Aparência;
