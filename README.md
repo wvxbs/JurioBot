@@ -4,7 +4,7 @@
 Bot do Discord que diz "kappa kappa" para toda letra digitada
 ***
 ## Funcionalidades
-- **Dizer kappa kappa **
+- **Dizer kappa kappa**
 O jurio lê suas mensagens e responde com "kappa kappa":
 ![Julio dizendo kappa kappa](https://i.imgur.com/OUbMSfy.png)
 - **Easter egg**
