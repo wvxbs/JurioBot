@@ -31,7 +31,7 @@ namespace SeverinoBot
             if (ulong.TryParse(defaultChannelId, out var channelId))
                 defaultChannel = await discordClient.GetChannelAsync(channelId);
             if (defaultChannel != null)
-                await defaultChannel.SendMessageAsync("kk");
+                await defaultChannel.SendMessageAsync("kappa");
 
             discordClient.MessageCreated += MessageController.OnMessageCreated;
 
