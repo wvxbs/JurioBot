@@ -15,6 +15,11 @@ namespace SeverinoBot
             {
                 string mensagem = e.Message.Content.Trim();
 
+                if (mensagem.ToLower().Equals("free fire"))
+                {
+                    await e.Message.RespondAsync("salve tropa", e.Message.IsTTS);
+                }
+
                 await e.Message.RespondAsync(ParseLaugh(mensagem));
                 return;
             }
