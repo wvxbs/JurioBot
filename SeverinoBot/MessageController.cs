@@ -30,7 +30,7 @@ namespace SeverinoBot
             StringBuilder Laugh = new StringBuilder();
 
             for(int i = 0; i < GetWordCount(message); i++)
-                Laugh.Append("kappa kappa");
+                Laugh.Append("kappa kappa ");
 
             return Laugh.ToString();
         }
