@@ -37,7 +37,7 @@ namespace SeverinoBot
 
         private static int GetWordCount(string message)
         {
-            return message.Count();
+            return message.Split(' ').Length;
         }
     }
 }
